@@ -1,0 +1,5 @@
+*.aux
+*.fdb_latexmk
+*.task1.fls
+*.task1.synctex.gz
+*.task1.toc
